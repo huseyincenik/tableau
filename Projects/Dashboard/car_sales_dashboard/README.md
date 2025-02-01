@@ -51,15 +51,7 @@ Step-by-step guide on how to connect Tableau to the database and import raw data
 Below are screenshots of the completed dashboard:
 
 ### **Dashboard Overview**
-![Dashboard Overview](images/dashboard_overview.png)
-
-### **YTD Sales by Body Style**
-![YTD Sales by Body Style](images/ytd_sales_by_body_style.png)
-
-### **Company-Wise Sales Trends**
-![Company-Wise Sales Trends](images/company_wise_sales_trend.png)
-
-> **Note**: Add screenshots of your Tableau dashboard in the `images/` folder in this repository.
+![Dashboard 1](https://github.com/user-attachments/assets/d7f445da-80e2-48b1-a777-b4205a18f150)
 
 ---
 
@@ -67,7 +59,7 @@ Below are screenshots of the completed dashboard:
 For Tableau, Power BI, and Excel Projects, feel free to reach out to me:
 
 - **Email**: [huseyinceniik@gmail.com](mailto:your_email@example.com)  
-
+- **Tableau**: [Dashboard Link](https://public.tableau.com/app/profile/huseyincenik/viz/CarSalesDashboard_17384396085260/Dashboard1)
 ---
 
 ### 💡 Let's Connect!
