@@ -42,11 +42,6 @@ The dataset includes:
 
 ---
 
-## 🔗 Connecting to Database
-Step-by-step guide on how to connect Tableau to the database and import raw data for analysis.
-
----
-
 ## 📸 Screenshots of the Dashboard
 Below are screenshots of the completed dashboard:
 
