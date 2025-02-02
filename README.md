@@ -9,11 +9,6 @@ This GitHub repository contains resources about Tableau, a data visualization an
 
 Tableau is a leading data visualization and business intelligence platform that enables users to visualize, analyze, and discover large amounts of data. Tableau allows you to create impressive charts, tables, and interactive dashboards.
 
-## Contents
-
-This repository includes the following resources:
-
-- Tableau Training Resources: Free and paid resources to learn and master Tableau.
 
 ## Projects
 | Project Name                                               | Description                                                                                           | Tableau | GitHub |
