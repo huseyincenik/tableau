@@ -1,6 +1,7 @@
 # British Airways Reviews - Tableau Dashboard
 
-![Dashboard 1](https://github.com/user-attachments/assets/055557f1-b3ba-4b2c-b926-87f5cf23e0a4)
+![BritishAirwaysReviews](https://github.com/user-attachments/assets/df030632-2021-453e-ad5f-a954376d3600)
+
 
 ## 📊 Overview
 
